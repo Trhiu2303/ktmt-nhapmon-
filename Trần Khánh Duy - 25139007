@@ -1,0 +1,59 @@
+TÓM TẮT CHỦ ĐỀ CỐT LÕI MÔN TOÁN 1 (GIẢI TÍCH I)
+
+==================================================
+
+I. GIỚI HẠN VÀ HÀM SỐ
+
+1. Khái niệm hàm số:
+- Tập xác định, tập giá trị, đồ thị.
+- Các loại hàm cơ bản (đa thức, lượng giác, mũ, logarit).
+
+2. Giới hạn của hàm số:
+- Giới hạn một phía (lim x->a+ và lim x->a-).
+- Giới hạn vô cùng (lim x->vô cùng).
+- Quy tắc L'Hôpital: Dùng để khử dạng vô định (0/0 hoặc vô cùng/vô cùng).
+
+3. Tính liên tục:
+- Hàm số f(x) liên tục tại x=a nếu: lim x->a f(x) = f(a).
+- Điểm gián đoạn (Gián đoạn khử được, Gián đoạn loại I, loại II).
+
+==================================================
+
+II. ĐẠO HÀM
+
+1. Định nghĩa:
+- Đạo hàm là giới hạn của tỉ số gia: f'(x) = lim h->0 [f(x+h) - f(x)] / h.
+- Ý nghĩa: Là độ dốc tiếp tuyến và tốc độ thay đổi tức thời.
+
+2. Quy tắc tính đạo hàm:
+- Đạo hàm tổng, hiệu, tích, thương.
+- Quy tắc dây chuyền (chain rule): [f(g(x))]' = f'(g(x)) * g'(x).
+- Đạo hàm cấp cao (f'', f''').
+
+3. Ứng dụng:
+- Tìm cực trị (điểm mà f'(x) = 0 hoặc không tồn tại).
+- Tìm khoảng đơn điệu (f'(x) > 0: tăng; f'(x) < 0: giảm).
+- Khảo sát tính lồi/lõm (dựa vào f''(x)).
+
+==================================================
+
+III. TÍCH PHÂN VÀ ỨNG DỤNG
+
+1. Nguyên hàm và Tích phân bất định:
+- F(x) là nguyên hàm của f(x) nếu F'(x) = f(x).
+- Tổng quát: Tich phân f(x)dx = F(x) + C.
+
+2. Tích phân xác định:
+- Định lý cơ bản của Giải tích: Tich phân a đến b của f(x)dx = F(b) - F(a).
+
+3. Các phương pháp tính tích phân:
+- Phương pháp đổi biến số.
+- Phương pháp tích phân từng phần: Tich phân udv = uv - Tich phân vdu.
+
+4. Ứng dụng:
+- Tính diện tích hình phẳng giới hạn bởi đồ thị.
+- Tính thể tích vật thể tròn xoay.
+
+==================================================
+
+GHI CHÚ: Hãy ôn tập kỹ các bảng đạo hàm và nguyên hàm cơ bản (lượng giác, mũ, logarit).
